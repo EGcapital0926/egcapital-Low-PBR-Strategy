@@ -1,0 +1,7 @@
+{
+  "last_date": "2026-01-13",
+  "total_splits": 2170,
+  "last_update": "2026-02-01 11:50:32",
+  "version": "1.0",
+  "notes": "AdjFactor-based split detection with CumAdj calculation"
+}

@@ -4,10 +4,10 @@ Quantitative value investment strategy exploiting the Price-to-Book Ratio anomal
 
 ## Performance Summary (Feb 2017 - Dec 2025)
 
-- **Total Return**: 325.13%
+- **Total Return**: 327.10%
 - **Sharpe Ratio**: 1.32
 - **Information Ratio**: 0.26
-- **Max Drawdown**: -28.32%
+- **Max Drawdown**: -27.14%
 
 ## Quick Start
 
